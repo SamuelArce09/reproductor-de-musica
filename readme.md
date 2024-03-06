@@ -1,0 +1,1 @@
+estos estilos seran ejecutados con sass,esto es una card que tiene una cancion para reproducir
